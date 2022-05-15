@@ -2,9 +2,11 @@
 
 hi, i'm [Andrew Horbach](https://karma-git.github.io/Andrew-Horbach.github.io-Public/), an Engineer
 
-- [KISS](https://en.wikipedia.org/wiki/KISS_principle) (keep it simple, stupid)
-- [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (don't repeat yourself)
-- CALMS (Collaboration, Automation, Lean, Measurement and Sharing)
+> [KISS](https://en.wikipedia.org/wiki/KISS_principle) (keep it simple, stupid)
+>
+> [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (don't repeat yourself)
+>
+> CALMS (Collaboration, Automation, Lean, Measurement and Sharing)
 
 - 🔭 I’m currently working on developers platform based on :cloud: AWS EKS :wink:
 - 🌱 I’m currently learning Go :hamster:, Site Reliability Engineering (SRE)
