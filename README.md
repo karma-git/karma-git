@@ -11,7 +11,7 @@ hi, i'm [Andrew Horbach](https://karma-git.github.io/Andrew-Horbach.github.io-Pu
 - 🔭 I’m currently working on developers platform based on :cloud: AWS EKS :wink:
 - 🌱 I’m currently learning Go :hamster:, Site Reliability Engineering (SRE)
 - 💬 Ask me about anything related to cloud :cloud:, docker :whale:, Kubernetes :ferris_wheel:, ci/cd :fox:, observability :ambulance:, python :snake:
-- 📫 How to reach me: [:airplane: telegram](https://t.me_ahorbach/), [:cd: discord](https://discord.com/channels/@me), [:office: linkedIn](https://www.linkedin.com/in/a-horbach/)
+- 📫 How to reach me: [:airplane: telegram](https://t.me_ahorbach/), [:cd: discord](https://discord.com/channels/7648), [:office: linkedIn](https://www.linkedin.com/in/a-horbach/)
 - ⚡ Fun fact: i'm an archer :dart:
 
 <details>
