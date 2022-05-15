@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-hi, i'm [Andrew Horbach](https://karma-git.github.io/Andrew-Horbach.github.io-Public/), an Engineer
+hi, i'm [Andrew Horbach](https://karma-git.github.io/Andrew-Horbach.github.io-Public/), an engineer
 
 > [KISS](https://en.wikipedia.org/wiki/KISS_principle) (keep it simple, stupid)
 >
